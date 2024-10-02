@@ -13,7 +13,7 @@ export const navBarItems = [
   },
   {
     name: "Office Bearers",
-    link: "/officeBearers/2023-24",
+    link: "/officeBearers/2024-25",
   },
   {
     name: "Facilities",
