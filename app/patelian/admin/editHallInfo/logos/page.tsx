@@ -64,12 +64,12 @@ const page = () => {
           <div className="flex flex-row gap-10 mx-5 mt-5">
             <div>
               <div className="bg-primary py-3 px-2">
-                <CldImage
+                {/* <CldImage
                   src={hallInfo.logoUrl}
                   alt="Website Logo"
                   width={100}
                   height={50}
-                />
+                /> */}
               </div>
               <CldUploadWidget
                 uploadPreset={process.env.NEXT_PUBLIC_CLOUDINARY_UPLOAD_PRESET}
