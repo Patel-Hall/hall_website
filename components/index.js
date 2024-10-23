@@ -11,6 +11,7 @@ export { default as NotableAlumniSection } from "./sections/home/NotableAlumniSe
 
 //office bearers sections
 export { default as Council } from "./sections/officeBearers/Council";
+export {default as Gallery} from "./sections/gallery/Gallery";
 
 //form exports
 export { default as LoginForm } from "./forms/LoginForm";

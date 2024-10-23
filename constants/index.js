@@ -9,7 +9,7 @@ export const navBarItems = [
   },
   {
     name: "Gallery",
-    link: "/",
+    link: "/gallery",
   },
   {
     name: "Office Bearers",
